@@ -1,4 +1,4 @@
-# POC (springboot-react-keycloak-oauth2.0-pkce-hexagonal-architecture)
+# Securty application
 
 The goal of this project is to secure `game-app` using [`Keycloak`](https://www.keycloak.org/)(with PKCE). `game-app` consists of two applications: one is a [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) Rest API called `game-api` and another is a [ReactJS](https://reactjs.org/) application called `game-web`.
 
